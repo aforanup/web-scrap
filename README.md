@@ -4,9 +4,9 @@
 This project contains webscraping and storing of the scrapped data inside a database.
 </p>
 
-## Run Locally<hr />
+## Run Locally
 
-After installing python 3 on your local device<hr />
+After installing python 3 on your local device
 
 Clone the project locally
 
