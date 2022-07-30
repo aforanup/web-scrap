@@ -18,4 +18,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path("admin/", admin.site.urls),
+    path("api/", include("web_scrap_app.api.urls")),
 ]
