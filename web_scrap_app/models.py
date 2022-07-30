@@ -4,10 +4,11 @@ from django.db import models
 class Blog(models.Model):
     title = models.CharField(max_length=255)
     description = models.TextField()
-    image_url = models.URLField()
-    author = models.CharField(max_length=255)
-    designation = models.CharField(max_length=255)
-    read_time = models.IntegerField()
+    author_image = models.URLField()
+    blog_image = models.URLField()
+    author_name = models.CharField(max_length=255)
+    author_designation = models.CharField(max_length=255)
+    read_time = models.CharField(max_length=35)
 
     def __str__(self):
-        return f"{self.author} {self.title}"
+        return f"{self.author_name} {self.title}"
