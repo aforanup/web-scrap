@@ -34,6 +34,12 @@ Install Requirements
 pip install -r requirements.txt
 ```
 
+migrate models
+
+```
+python3 manage.py migrate
+```
+
 Insert scrapped data into database
 
 ```
