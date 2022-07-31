@@ -11,3 +11,4 @@ data
 mediafiles
 .coverage
 .vscode
+static_urls/

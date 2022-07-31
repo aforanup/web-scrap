@@ -1,7 +1,7 @@
 [
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/07/microsaas-_blog-_feature-706x536.jpg",
-        "read_time": " 6 minutes",
+        "read_time": "6 minutes",
         "title": "Micro-SaaS: what it is and why it matters",
         "description": "Sometimes when a problem is so small, it can seem like no-one else shares it. When that problem relates to software as a service (SaaS), which already addresses particular pain\u2026",
         "author_image": "https://secure.gravatar.com/avatar/e9299493040b2806468569ab4a3be1ce?s=128&d=mm&r=g",
@@ -10,7 +10,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/07/no-containers-_blog-_feature-706x536.jpg",
-        "read_time": " 6 minutes",
+        "read_time": "6 minutes",
         "title": "How to scale microservices without using Kubernetes",
         "description": "The great thing about microservices is that if one of your software services fails, the rest of the system stays online. For global streaming giants and hyperscalers with teams of\u2026",
         "author_image": "https://secure.gravatar.com/avatar/f138c6790aa1cc4c2941b5ea0be03b4b?s=128&d=mm&r=g",
@@ -19,7 +19,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/06/erp-excellence-_feature-706x536.jpg",
-        "read_time": " 3 minutes",
+        "read_time": "3 minutes",
         "title": "Driving eCommerce excellence through innovative software development",
         "description": "When it comes to software development, sometimes a challenge can\u2019t be solved by an out-of-the-box solution. Instead, it requires thinking outside the box. That\u2019s exactly what was required when Proshore\u2026",
         "author_image": "https://secure.gravatar.com/avatar/bc2f8d14e33d443d333a8bde266abdd3?s=128&d=mm&r=g",
@@ -28,7 +28,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/06/14-_tracking-turnaround-_blog-_feature-706x536.jpg",
-        "read_time": " 7 minutes",
+        "read_time": "7 minutes",
         "title": "Tackling turnaround: how to handle changes during software development \u00a0",
         "description": "When you\u2019re delivering software development at scale and at pace, unforeseen changes to the product or personnel can have a real impact on product delivery. Like it or not, change\u2026",
         "author_image": "https://secure.gravatar.com/avatar/f882a62847fc90dcb8704581a8b57b00?s=128&d=mm&r=g",
@@ -37,7 +37,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/05/kss-_hotjar-_feature-706x536.jpg",
-        "read_time": " 4 minutes",
+        "read_time": "4 minutes",
         "title": "KSS: Level up your website with Hotjar",
         "description": "Digital companies spend a lot of time, money, and effort on creating a website. Being the focal point for prospective customers to get information and buy products or services, a\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -46,7 +46,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/05/13-_rid-of-deadlines-_feature-v2-706x536.jpg",
-        "read_time": " 6 minutes",
+        "read_time": "6 minutes",
         "title": "Getting Rid of Rolling Deadlines",
         "description": "When it comes to getting projects done on time, being able to manage client expectations as well as developer needs are critical parts of successful delivery. Deadlines don\u2019t have to\u2026",
         "author_image": "https://secure.gravatar.com/avatar/b1fd28fa526dbdf5b6416ae80ac385a6?s=128&d=mm&r=g",
@@ -55,7 +55,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/05/scaling-startups-_blog-_feature-706x536.jpg",
-        "read_time": "\n5 minutes\n\n",
+        "read_time": "5 minutes",
         "title": "The challenges and solutions of scaling software development for startups",
         "description": "When you\u2019re running a successful software startup, the time will come when you need to scale your team. You might have started out as a one or two-person outfit, but\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -64,7 +64,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/04/11-_TaaS-_blog-feature-706x536.jpg",
-        "read_time": "\n6 minutes\n\n",
+        "read_time": "6 minutes",
         "title": "How It Works: Teams As A Service",
         "description": "When you\u2019re scaling a software company, it can be a challenge to meet growing customer expectations and deliver shippable code. One moment you\u2019re starting out as an entrepreneur with a\u2026",
         "author_image": "https://secure.gravatar.com/avatar/f177a352abce09469f7b509ad22200a3?s=128&d=mm&r=g",
@@ -73,7 +73,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/04/10-_why-nepal-_blogfeature-706x536.jpg",
-        "read_time": "\n6 minutes\n\n",
+        "read_time": "6 minutes",
         "title": "Nepal: A serious contender in software development outsourcing",
         "description": "Say the words \u2018outsourcing destination\u2019 to people in the software industry, and they\u2019ll probably reply with the name of one of the major players \u2013 like Bangladesh or India. Sure,\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -82,7 +82,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/04/workshop-_blackfirefeature-706x536.jpg",
-        "read_time": "\n4 minutes\n\n",
+        "read_time": "4 minutes",
         "title": "KSS: How to use Blackfire to monitor the performance of PHP application",
         "description": "As a PHP developer, \u2018Blackfire\u2019 might be a name you have come across before or maybe not even heard of. For our resident PHP expert, Angel Maharjan, it was a\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -91,7 +91,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/03/outsourcing-mistakes-_feature-706x536.jpg",
-        "read_time": "\n6 minutes\n\n",
+        "read_time": "6 minutes",
         "title": "7 common mistakes in IT outsourcing \u2013 and tips to avoid making them",
         "description": "As more and more companies seek to reduce operational costs in areas such as managing enterprise applications and software development, the IT outsourcing sector is experiencing a period of sustained\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -100,7 +100,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/03/karsten-winegeart-iLoZVNloTnY-unsplash-scaled-706x536.jpg",
-        "read_time": "\n7 minutes\n\n",
+        "read_time": "7 minutes",
         "title": "EU-Startups Summit",
         "description": "",
         "author_image": "https://secure.gravatar.com/avatar/f177a352abce09469f7b509ad22200a3?s=128&d=mm&r=g",
@@ -109,7 +109,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/03/scaling-via-cloud-_blog-feature-1-706x536.jpg",
-        "read_time": "\n5 minutes\n\n",
+        "read_time": "5 minutes",
         "title": "Scaling Startups In The Cloud: Ways To Make That Journey",
         "description": "There\u2019s no question that IT infrastructure is heading in one direction: towards the Cloud. For established, legacy businesses who are at the beginning of their digital transformation journey, moving to\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -118,7 +118,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/03/SaaStr-706x536.jpeg",
-        "read_time": "\n\n",
+        "read_time": "3 minutes",
         "title": "SaaStr Europa",
         "description": "",
         "author_image": "https://secure.gravatar.com/avatar/e9299493040b2806468569ab4a3be1ce?s=128&d=mm&r=g",
@@ -127,7 +127,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/02/Gaavcontent_MK31246-scaled-706x536.jpg",
-        "read_time": "\n3 minutes\n\n",
+        "read_time": "3 minutes",
         "title": "All Onboard: Overcoming the challenges of project ownership with managed teams",
         "description": "Whatever sort of software you\u2019re developing, when you look to a solution like a \u2018development team as a service\u2019 to scale and expedite your coding, you might be forgiven for\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -136,7 +136,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/02/blog-image-_1st-bootcamp-1a-706x536.jpg",
-        "read_time": "\n3 minutes\n\n",
+        "read_time": "3 minutes",
         "title": "Proshore Bootcamp: A free program for early-stage IT professionals in Nepal",
         "description": "Proshore Bootcamp was born out of love for two things: IT and Nepal. As part of Proshore\u2019s social mission to create better job opportunities for aspiring IT professionals working in\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -145,7 +145,7 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/02/self-managing-teams-_feature-5-706x536.jpg",
-        "read_time": "\n3 minutes\n\n",
+        "read_time": "4 minutes",
         "title": "From micromanaging to self-managing remote software development",
         "description": "How does remote software development really work? If your business is thinking about investing in software development beyond your existing in-house capacity, then reliability, expertise, and team integration are key\u2026",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -154,7 +154,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2022/01/exportfeed-_case-study-1-706x536.jpg",
-        "read_time": "\n4 minutes\n\n",
         "title": "Digital Product Labs: How Proshore helped sync listings & orders across Etsy & Shopify",
         "description": "If you\u2019re a manufacturer or retailer with products appearing on a single retail site, then updating your product feeds is a straightforward task. But what if your products appear on multiple merchant sites?...",
         "author_image": "https://secure.gravatar.com/avatar/cab3209133b33e3f8789eb1e41fe0591?s=128&d=mm&r=g",
@@ -163,7 +162,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/12/blog-image-_culture-club4-706x536.jpg",
-        "read_time": "\n\n",
         "title": "Our Culture Club: Bridging The Gaps",
         "description": "With offices in both Eindhoven and Kathmandu, Proshore is a company born out of international entrepreneurship. And while we\u2019re helping software companies to sustainably scale using our unique \u2018development teams\u2026",
         "author_image": "https://secure.gravatar.com/avatar/f138c6790aa1cc4c2941b5ea0be03b4b?s=128&d=mm&r=g",
@@ -172,7 +170,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/12/origins-roshan-haico-scaled-706x536.jpg",
-        "read_time": "\n\n",
         "title": "The Netherlands + Nepal = Proshore",
         "description": "Co-located in the Netherlands and Nepal, Proshore was founded in 2009. Its mission is to create sustainable and highly skilled jobs for people in Nepal by offering managed development teams\u2026",
         "author_image": "https://secure.gravatar.com/avatar/f138c6790aa1cc4c2941b5ea0be03b4b?s=128&d=mm&r=g",
@@ -181,7 +178,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/11/automation-blog-banner-copy-706x536.png",
-        "read_time": "\n\n",
         "title": "Automation For Your Business: The Value Of Successful Implementation",
         "description": "Harnessing the power of \u2018Big Data\u2019, alongside smart investment in digital technologies has created end-to-end transparency\u00a0\u2013 and the automation of core processes for leading supply chain organizations, who have traditionally\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -190,7 +186,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/11/micro3-706x536.png",
-        "read_time": "\n\n",
         "title": "From Monolith To Microservices: What We\u2019ve Learned From Helping Clients Make That Journey",
         "description": "Right now, in software development, microservices are trending. Many of the big players in search, entertainment, and online retail have already made the shift. So what\u2019s the appeal? From mono\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -199,7 +194,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/DSC_5580-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Gain an online edge with synergy in your development team",
         "description": "It goes without saying that we at Proshore offer our clients smart, up-to-date services and products. However, gaining an online edge requires more than that. It also calls for a\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -208,7 +202,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/17A7011-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Remote development teams: three commonly heard challenges (and how to tackle them!)",
         "description": "If you ask us, remote agile development teams are an excellent solution to the scarcity on the technical labour market. However, having your people stationed thousands of kilometres away does\u2026",
         "author_image": "https://secure.gravatar.com/avatar/45314836fe5b5b8fe8e49cf0c576c421?s=128&d=mm&r=g",
@@ -217,7 +210,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/teamphoto-2-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Doing business in Nepal",
         "description": "Why is Proshore based in Nepal? Why do our developers stay there, instead of us bringing Nepalese talent back to the Netherlands? After all, there are plenty of jobs for\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -226,7 +218,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/PHOTO-41-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Remote team: how to increase the quality of their output",
         "description": "How can you make sure that your remote team performs optimally and that they deliver the highest possible output? In this article, we will discuss two factors that play a\u2026",
         "author_image": "https://secure.gravatar.com/avatar/e9299493040b2806468569ab4a3be1ce?s=128&d=mm&r=g",
@@ -235,7 +226,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/teamphoto-2-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Why Nepal?",
         "description": "Why is Proshore in Nepal? We are asked that question a lot. In this article, we want to tell you more about it. One important reason for our presence in\u2026",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",
@@ -244,7 +234,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/17A7005-706x536.jpg",
-        "read_time": "\n\n",
         "title": "Nepalese IT students can really build the country",
         "description": "IT students can do valuable internships at our company. During three months we give them real projects, and make them ready for their next challenge. I really believe that they can build our country",
         "author_image": "https://secure.gravatar.com/avatar/4cc3310f4eb02c7b4ef56464348129cc?s=128&d=mm&r=g",
@@ -253,7 +242,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/YOPRO.VKL_.SHOOTBUITEN.1.6-1024x684-1-706x536.jpg",
-        "read_time": "\n\n",
         "title": "Hiring a single developer while reaping the rewards of an entire team",
         "description": "Sometimes, you only need a single developer to help create your online product or platform. However, since they must possess very specific knowledge and experience, they can be quite hard\u2026",
         "author_image": "https://secure.gravatar.com/avatar/4cc3310f4eb02c7b4ef56464348129cc?s=128&d=mm&r=g",
@@ -262,7 +250,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/sheetal-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Sheetal Shrestha: From Intern Quality Analyst to Project Lead",
         "description": "Sheetal is the project lead of different Projects like Blinqed, who has multiple roles for managing projects to doing the Quality Analysis of projects based on the requirements given by the client.",
         "author_image": "https://secure.gravatar.com/avatar/4cc3310f4eb02c7b4ef56464348129cc?s=128&d=mm&r=g",
@@ -271,7 +258,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/image-asset-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "Karan Shakya: On starting a career as a UI/UX designer",
         "description": "Karan Shakya has been working as a UI/UX designer at Proshore for more than 4 years. He holds a degree in Business Studies but enjoys his creative job of creating visual and interactive designs for the web. He is our UI/UX specialist and we will be interviewing him about his journey as a UI/UX specialist.",
         "author_image": "https://secure.gravatar.com/avatar/e9299493040b2806468569ab4a3be1ce?s=128&d=mm&r=g",
@@ -280,7 +266,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/PHOTO-34-scaled-706x536.jpeg",
-        "read_time": "\n\n",
         "title": "IT developer in practice: \u201cProshore is a well managed IT company\u201d",
         "description": "Sakar Khatiwada is Web developer at Proshore, we interviewed him together with Software Developer, Sushant Shah. Sakar has been much longer with the company, whereas Sushant has been with us for 6 months.",
         "author_image": "https://secure.gravatar.com/avatar/4cc3310f4eb02c7b4ef56464348129cc?s=128&d=mm&r=g",
@@ -289,7 +274,6 @@
     },
     {
         "blog_image": "https://proshore.eu/wp-content/uploads/2021/07/1.jpeg",
-        "read_time": "\n\n",
         "title": "Proshore\u2019s 10th anniversary- Walking together with technology",
         "description": "Proshore celebrates its anniversary every year in style. We believe celebrating the anniversary with the team members creates a strong bond with each other and develops team-building activities.",
         "author_image": "https://secure.gravatar.com/avatar/d40d8cdf05b41014426345775008edcf?s=128&d=mm&r=g",

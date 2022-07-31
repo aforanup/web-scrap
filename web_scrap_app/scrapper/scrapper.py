@@ -40,7 +40,7 @@ soup = BeautifulSoup(html, "html.parser")
 
 blogs = soup.find("div", {"class": "playground-list"})
 blog_images = blogs.find_all("div", {"class": "playground-image"})
-all_read_time = blogs.find_all("div", {"class": "playground-read-time"})
+all_read_time = blogs.find_all("span", {"class": "playground-read-time-text"})
 all_title = blogs.find_all("h4", {"class": "playground-title"})
 all_description = blogs.find_all("div", {"class": "playground-excerpt"})
 author_images = blogs.find_all("div", {"class": "playground-author-image"})
