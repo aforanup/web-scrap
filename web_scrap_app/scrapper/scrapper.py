@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 from selenium.webdriver import Chrome
 from selenium.webdriver import ChromeOptions
 from selenium.webdriver.common.keys import Keys
-import csv
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import json
 
 
 url = "https://proshore.eu/resources/"
@@ -26,8 +26,8 @@ while driver.find_element(By.CLASS_NAME, "playground-title"):
         By.CLASS_NAME,
         "playground-title",
     )
-    print(count, Divs, "\n")
-    if "A remote development team: what are the pros and cons?" in Divs or count == 500:
+    print(count)
+    if count == 1000:
         print("end")
         break
     else:
@@ -74,7 +74,7 @@ for description in all_description:
 
 count = 0
 for author_image in author_images:
-    img_src = blog_image.find("img").attrs["src"]
+    img_src = author_image.find("img").attrs["src"]
     blog_data[count].update({"author_image": img_src})
     count += 1
 
@@ -89,3 +89,5 @@ for author_designation in author_designations:
     count += 1
 
 print(blog_data, len(blog_data))
+with open("scrapped_data.json", "w") as f:
+    f.write(json.dumps(blog_data))

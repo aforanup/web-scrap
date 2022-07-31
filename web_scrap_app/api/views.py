@@ -1,18 +1,18 @@
 from rest_framework.response import Response
 from .. import models
-from rest_framework.views import APIView
+from rest_framework import generics
 from . import serializers
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework.filters import OrderingFilter, SearchFilter
 from . import paginations
 
 
-class BlogView(APIView):
+class BlogView(generics.GenericAPIView):
     serializer_class = serializers.BlogViewSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]
-    search_fields = ["name"]
+    search_fields = ["title"]
     ordering_fields = ["id"]
-    ordering = "-created_at"
+    ordering = "-id"
 
     def get(self, request, *args, **kwargs):
         blogs_db = models.Blog.objects.all()
@@ -35,7 +35,7 @@ class BlogView(APIView):
         )
 
 
-class BlogDetailView(APIView):
+class BlogDetailView(generics.GenericAPIView):
     serializer_class = serializers.BlogViewSerializer
 
     def get(self, request, id, *args, **kwargs):
