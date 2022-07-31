@@ -10,9 +10,9 @@ from . import paginations
 class BlogView(generics.GenericAPIView):
     serializer_class = serializers.BlogViewSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]
-    search_fields = ["title"]
-    ordering_fields = ["id"]
-    ordering = "-id"
+    search_fields = ["title", "author_name", "author_designation"]
+    ordering_fields = ["title", "read_time"]
+    ordering = "id"
 
     def get(self, request, *args, **kwargs):
         blogs_db = models.Blog.objects.all()
