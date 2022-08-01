@@ -28,6 +28,8 @@ python3 -m virtualenv venv
 $ source venv/bin/activate
 ```
 
+<code>Also create .env file from the sample .env.sample</code>
+
 Install Requirements
 
 ```
